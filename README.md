@@ -28,3 +28,4 @@ This workflow automates the tedious process of manual web research and content/d
 4. Configure your credentials for **Google Sheets** and **Google Gemini Chat Model**.
 5. Save and execute the workflow!
 6.
+<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/fd4339d2-eed3-48a9-84f8-18296957671f" />
